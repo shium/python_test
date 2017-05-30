@@ -2,12 +2,18 @@
 
 ##python 练习册
 
-+ Statistical_word_number统计文章的词频
++ Statistical_word_number	统计文章的词频
 
-+ wordcloud词云
++ wordcloud			词云
 
-+ book爬虫
++ book				爬虫
 
-+ Goldbach验证哥德巴赫猜想
++ Goldbach			验证哥德巴赫猜想
 
-+ yanghui杨辉三角形
++ yanghui			杨辉三角形
+
++ hash_base			加密（程序员的浪漫）
+
+
+
+大部分来自’Crossin的编程教室‘
